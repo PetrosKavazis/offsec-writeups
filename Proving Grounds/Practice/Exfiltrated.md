@@ -276,8 +276,3 @@ Generated reverse-shell payload → root shell received.
 - Monitor abnormal cron executions
 
 ---
-
-# Status
-✔️ **Completed**  
-✔️ **Safe to publish (PG Practice box)**  
-✔️ **Contains no flags / sensitive live data**
